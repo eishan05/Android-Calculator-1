@@ -11,4 +11,4 @@ The manditory functions are the +,-,x and / while the other ones are optional an
 show off your mad skills (e.g. trig functions, hex calculator, exp functions, etc.).
 
 # Your comments or assumptions
-- <add them here>
+Had fun doing this project. Learnt a lot about Android's animation APIs which I implemented in the extra operations.
